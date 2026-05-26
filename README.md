@@ -12,7 +12,7 @@ Zoom thugging utility.
 <summary><strong>Click to expand Userscript Instructions</strong></summary>
 
 #### 🔹 One-Click Install  
-👉 [Install Thugware.user.js](https://github.com/crackbob/Thugware/raw/main/build/Thugware.user.js)  
+👉 [Install Thugware.user.js](https://github.com/marcusvane/Thugware-pro-zoom/blob/main/build/thugware.user.js)  
 *(Requires [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) installed)*
 
 </details>
